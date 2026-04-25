@@ -15,7 +15,6 @@ Machine Learning project to predict whether a bank should approve a loan based o
 - Data merging
 - Exploratory analysis started
 
-## Upcoming Work
-- Feature selection
-- Model training
-- Evaluation
+- Feature selection completed
+- Statistical tests applied
+- Final dataset prepared for model training
